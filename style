@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+
+  
+</style>
+<title>hello</title>
+<style>
+#uwituze{
+    color: gray;
+}
+.Rebecca{
+    color: greenyellow;
+}
+</style>
+</head>
+<body>
+<h1 id="uwituze">welcome to my web page</h1>
+<h1>welcome to my web page</h1>
+<h1 class="Rebecca"> welcome to my web page</h1>
+<h1>welcome to my web page</h1>
+
+
+</body>
+
+</html>
