@@ -4,6 +4,6 @@
         <title>image</title>
         </head>
         <body>
-            <img src="nature.jpg" alt="nature" width="400px">
-            </body>
-            </html>
+         <img src="nature.jpg" alt="nature" width="400px">
+         </body>
+         </html>
